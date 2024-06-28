@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+.quoteClass {
+  font-size: 19px;
+  margin-left: 10px;
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  margin-bottom: 4px;
+  margin-top: 35px;
+}
+
+.authorClass {
+  font-size: 15px;
+  margin-left: 15px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 4px;
+}
+
+.buttonClass {
+  background-color: #c863ff;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 12px;
+}
+* {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  transition: 0.5s ease-in-out;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.favButton {
+  background-color: #f383ff;
+  border: none;
+  color: white;
+  padding: 7px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  margin-left: 12px;
+}
+.favAuthor {
+  font-size: 15px;
+  margin-left: 15px;
+  font-family: "Lato", sans-serif;
+  font-weight: 400;
+  font-style: italic;
+  margin-bottom: 4px;
+}
+.favQuote {
+  font-size: 19px;
+  margin-left: 10px;
+  font-family: "Playwrite MX", cursive;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  margin-bottom: 4px;
+  margin-top: 8px;
+}
+.Fav {
+  font-size: 30px;
+  margin-top: 35px;
+  margin-left: 10px;
+}

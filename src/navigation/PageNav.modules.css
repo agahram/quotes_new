@@ -1,0 +1,24 @@
+ul {
+  border: 1px solid #e7e7e7;
+  background-color: #cbcbcb;
+  justify-content: space-between;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+li {
+  color: #b2b2b2;
+  float: left;
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+  border-right: 1px solid #bbb;
+}
+/* .active {
+  background-color: #f29dff;
+  padding: 8px;
+} */
+.a {
+  text-decoration: none;
+}
